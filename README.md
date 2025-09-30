@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"/>
 </a>
 <a href="Your-Portfolio-URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=github&logoColor=black&color=181717" alt="Portfolio"/>
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome&fontSize=80&fontAlignY=35&animation=twinkling&desc=to%20Mars%&descAlignY=50" />
